@@ -1,1 +1,2 @@
 # Maze_solver
+This project was build in Genesis'19 conducted by Robotics and Machine Intelligence (RMI) club of NIT-Trichy. The robot is a 2-R robotic arm which moves over a maze based on the inputs from the image processing python script. In this project the path through a maze is based on the fact that any maze could be heuristically broken into left side and right side and there exist a common overlapping path in both of these segments. The angle of rotation of servo motors are then calculated through Inverse Kinematics.
